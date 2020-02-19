@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<agentConfig>
+    <agentName>Ag5</agentName>
+    <Neighbours>
+        <neighbour name="Ag4" weight="2.0"/>
+        <neighbour name="Ag2" weight="9.0"/>
+        <neighbour name="Ag6" weight="6.0"/>
+    </Neighbours>
+</agentConfig>
